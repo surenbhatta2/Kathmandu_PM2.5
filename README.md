@@ -1,3 +1,2 @@
-Hourly PM2.5 data of Kathmandu from 1980_2021 will be here.
-Feel free to reach out to me just in case it is not in the repository. 
-It may be in and out occasionally.
+The hourly ML predicted PM2.5 data for Kathmandu from 1980 to 2021 will be available here. If it is not found in the repository, please check with me. Feel free to contact me for details on the data quality before drawing any scientific conclusions. If you use it please here is a paper link to cite:
+Bhatta, Surendra, and Yuekui Yang. 2023. "Reconstructing PM2.5 Data Record for the Kathmandu Valley Using a Machine Learning Model" Atmosphere 14, no. 7: 1073. https://doi.org/10.3390/atmos14071073
